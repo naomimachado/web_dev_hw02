@@ -1,57 +1,55 @@
 
 .header {
-    background-color: black;
-    text-align: center;
-    padding: 20px;
-    font-family: "Georgia", Times, sans-serif;
-	font-style: italic;
-	font-size: 30px;
+  background-color: black;
+  text-align: center;
+  padding: 20px;
+  font-family: "Georgia", Times, sans-serif;
+  font-style: italic;
+  font-size: 30px;
   line-height: 1;
-color:red;
-font-weight: normal;
+  color:red;
+  font-weight: normal;
 }
 
-/* Style the top navigation bar */
 .nav {
-    overflow: hidden;
-    background-color: red;
+  overflow: hidden;
+  background-color: red;
 }
 
-/* Style the topnav links */
 .nav a {
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 30px;
-    font-family: "Georgia", Times, sans-serif;
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: "Georgia", Times, sans-serif;
 }
 
 .ko {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 30px;
-    font-family: "Georgia", Times, sans-serif;
-    background-color: black;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: "Georgia", Times, sans-serif;
+  background-color: black;
 }
 
 .data:link {
-    color: black;
+  color: black;
 }
 
 .data :visited {
-    color: black;
+  color: black;
 }
 
 .b{
   background-image: url(bg.jpg);
   background-size: cover;
-	background-repeat: no-repeat;
+  background-repeat: no-repeat;
 }
 
 .list{
